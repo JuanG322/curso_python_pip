@@ -2,7 +2,7 @@
 
 Sigue las instruciones en terminal 
 
-´´´sh
+```sh
 cd game
 python3 main.py
-´´´
+```
